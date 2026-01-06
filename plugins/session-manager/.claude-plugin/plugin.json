@@ -1,0 +1,5 @@
+{
+  "name": "session-manager",
+  "description": "Adds various /session commands to improve session management",
+  "version": "1.0.0"
+}

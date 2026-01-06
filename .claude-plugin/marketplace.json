@@ -2,5 +2,12 @@
     "name": "cinzyas-plugins",
     "owner": {
         "name": "Cynthia Ebert"
+    },
+    "plugins": [
+    {
+        "name": "session-manager",
+        "description": "Adds various /session commands to improve session management",
+        "source": "./plugins/session-manager"
     }
+  ]
 }
