@@ -1,0 +1,5 @@
+{
+  "name": "mac-notifier",
+  "description": "macOS system notifications for Claude Code events based on Naveenxyz's version - notifies when Claude completes tasks while you're in another app",
+  "version": "1.0.0"
+}

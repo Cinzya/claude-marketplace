@@ -8,6 +8,11 @@
         "name": "session-manager",
         "description": "Adds various /session commands to improve session management",
         "source": "./plugins/session-manager"
+    },
+    {
+        "name": "mac-notifier",
+        "description": "macOS system notifications for Claude Code events based on Naveenxyz's version - notifies when Claude completes tasks while you're in another app",
+        "source": "./plugins/mac-notifier"
     }
   ]
 }
